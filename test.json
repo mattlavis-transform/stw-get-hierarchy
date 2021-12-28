@@ -1,0 +1,47 @@
+[
+    {
+        "id": "0101210000",
+        "description": "Pure-bred breeding animals",
+        "sub": [
+            {
+                "id": "0101210000b",
+                "description": "Pure-bred breeding animals",
+                "sub": [
+                    {
+                        "id": "0101210000b2",
+                        "description": "Pure-bred breeding animals",
+                        "sub": []
+                    },
+                    {
+                        "id": "0101210000b3",
+                        "description": "Pure-bred breeding animals",
+                        "sub": []
+                    }
+                ]
+            },
+            {
+                "id": "0101210000c",
+                "description": "Pure-bred breeding animals",
+                "sub": []
+            }
+        ]
+    },
+    {
+        "id": "0101291000",
+        "description": "For slaughter",
+        "hierarchy": [
+            "Live horses, asses, mules and hinnies",
+            "Horses",
+            "Other"
+        ]
+    },
+    {
+        "id": "0101299000",
+        "description": "Other",
+        "hierarchy": [
+            "Live horses, asses, mules and hinnies",
+            "Horses",
+            "Other"
+        ]
+    }
+]
