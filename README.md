@@ -23,3 +23,5 @@
 
 ### To create the extract
 `python3 create_stw_hierarchy.py`
+`python3 create_stw_hierarchy.py 2022-01-01`
+

@@ -24,6 +24,7 @@ class HierarchyParser(object):
         max = 99
         for i in range(min, max + 1):
             if i != 77:
+                print("Getting UK codes beginning with " + str(i))
                 url = self.root_url + "chapters/" + str(i).zfill(2) + self.date_param
                 response = requests.get(url)
                 if response:
